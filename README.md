@@ -6,34 +6,34 @@ In dieser Arbeit werde ich zunächst zahlreiche datenbasierte Prozesse und Aktiv
 
 ## Datenflüsse und -aktivitäten im ULB-Kerngeschäft
 
-### Online-Katalog + Identitätsmanagement
+1. Online-Katalog + Identitätsmanagement
 
-### Backup, Statistik
+2. Backup, Statistik
 
-### (Retro)digitalisierung in der ULB 
+3. (Retro)digitalisierung
 
-### Elektronischer Semesterapparat (ESA)
+4. Elektronischer Semesterapparat (ESA)
 
-### Forschungsdatenmanagement
+5. Forschungsdatenmanagement
 
 ## Datenintensive Projekte mit ULB-Beteiligung
 
-### Linked Open Data (LODUM)
+1. Linked Open Data (LODUM)
 
-### Opening Reproducible Research (O2R)
+2. Opening Reproducible Research (O2R)
 
-### sciebo-research Data Services (sciebo-RDS)
+3. sciebo-research Data Services (sciebo-RDS)
 
-### Digitales Archiv NRW (DA NRW)
+4. Digitales Archiv NRW (DA NRW)
 
-### Digitalisierung Historischer Zeitungen NRW
+5. Digitalisierung Historischer Zeitungen NRW
 
-### FID Benelux
+6. FID Benelux
 
 ## Beispiel 1: Elektronischer Semesterapparat (ESA)
 
-### Projektskizze mit Workflow
+- Projektskizze mit Workflow
 
 ## Beispiel 2: Digitalisierung Historischer Zeitungen NRW
 
-### Projektskizze mit Workflow
+- Projektskizze mit Workflow
