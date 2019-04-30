@@ -32,5 +32,8 @@ In dieser Arbeit werde ich zunächst zahlreiche datenbasierte Prozesse und Aktiv
 
 ## Beispiel 1: Elektronischer Semesterapparat (ESA)
 
+### Projektskizze mit Workflow
+
 ## Beispiel 2: Digitalisierung Historischer Zeitungen NRW
 
+### Projektskizze mit Workflow
