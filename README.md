@@ -1,36 +1,36 @@
 # Datenintensive und datenfokussierte Aktivitäten in der ULB Münster
 
-## Einleitung
+### Einleitung
 
 In dieser Arbeit werde ich zunächst zahlreiche Prozesse und Aktivitäten auflisten und darin jeweils kurz beschreiben, welche Daten in welcher Reihenfolge und in welcher in diesen Arbeitsprozessen fließen. Anschließend sollen anhand zweier Beispiele Optimierungspotentiale etwas genauer der Umgang mit den Daten herausgearbeitet werden, um in einem letzten Schritt das Optimierungspotential dieser Prozesse zu beleuchten.
 
-### Datenflüsse und -aktivitäten im ULB-Kerngeschäft
+## Datenflüsse und -aktivitäten im ULB-Kerngeschäft
 
-## Online-Katalog + Identitätsmanagement
+### Online-Katalog + Identitätsmanagement
 
-## Backup, Statistik
+### Backup, Statistik
 
-## (Retro)digitalisierung in der ULB 
+### (Retro)digitalisierung in der ULB 
 
-## Elektronischer Semesterapparat (ESA)
+### Elektronischer Semesterapparat (ESA)
 
-## Forschungsdatenmanagement
+### Forschungsdatenmanagement
 
-### Datenintensive Projekte mit ULB-Beteiligung
+## Datenintensive Projekte mit ULB-Beteiligung
 
-## Linked Open Data (LODUM)
+### Linked Open Data (LODUM)
 
-## Opening Reproducible Research (O2R)
+### Opening Reproducible Research (O2R)
 
-## sciebo-research Data Services (sciebo-RDS)
+### sciebo-research Data Services (sciebo-RDS)
 
-## Digitales Archiv NRW (DA NRW)
+### Digitales Archiv NRW (DA NRW)
 
-## Digitalisierung Historischer Zeitungen NRW
+### Digitalisierung Historischer Zeitungen NRW
 
-## FID Benelux
+### FID Benelux
 
-### Beispiel 1: Elektronischer Semesterapparat (ESA)
+## Beispiel 1: Elektronischer Semesterapparat (ESA)
 
-### Beispiel 2: Digitalisierung Historischer Zeitungen NRW
+## Beispiel 2: Digitalisierung Historischer Zeitungen NRW
 
