@@ -22,6 +22,8 @@ siehe Beispiel 1
 
 5. Forschungsdatenmanagement
 
+Ein weiteres Feld, in welchem ebenfalls zahlreiche Daten fließen, ist der Bereich Forschungsdatenmanagement innerhalb der ULB. Hier tritt die ULB gemeinsam mit dem zentralen Rechenzenrum (ZIV) als Servicedienstleister für die Wissenschaftler der WWU Münster auf, um die im Rahmen ihrer Forschungen auftretenden Daten aufzubereiten und langfristig zu speichern (max. 10 Jahre). In Form eines [Servicepunkts Forschungsdaten](https://www.uni-muenster.de/Forschungsdaten/angebote/ansprechpartner/) hilft die ULB den Wissenschaftlern bei forschungsdatenrelevanten Themen wie Antragstellung, Rahmenbedingungen, Datenmanagementplan, Datenschutz, Werkzeuge, Publizieren, Open Access und Langzeitarchivierung. Wenn man sich allein die im Forschungsdatenmanagement auftretenden Phasen als [Datenlebenszyklus](https://www.uni-muenster.de/Forschungsdaten/information/lebenszyklus/) vergegenwärtigt, wird klar, dass hier große Datenmengen und viele verschiedene Arten von Daten anfallen, und zwar bei der Erzeugung, Verarbeitung, Analyse, Archivierung, Zugang, Nachnutzung (und dann wieder) Erzeugung der Daten etc. Hierfür stellt die ULB gemeinsam mit dem ZIV die nötige IT-Infrastruktur und -software bereit und informiert auch im Rahmen von Schulungen und Workshops.
+
 ## Datenintensive Projekte mit ULB-Beteiligung
 
 1. Linked Open Data (LODUM)
