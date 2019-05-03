@@ -26,7 +26,9 @@ Ein weiteres Feld, in welchem ebenfalls zahlreiche Daten fließen, ist der Berei
 
 ## Datenintensive Projekte mit ULB-Beteiligung
 
-1. Linked Open Data (LODUM)
+1. Linked Open Data University of Münster (LODUM)
+
+[LODUM](https://www.uni-muenster.de/LODUM/) ist die Open Data Initiative an der WWU Münster. Sie hat sich zum Ziel gesetzt, alle öffentlichen Information über die Universität in maschinenlesbaren Formaten für den einfachen Zugang und zur einfachen Wiederverwendung zur Verfügung zu stellen. LODUM möchte einen One-Stop Shop für alle Daten der WWU voranbringen, indem Daten von unterschiedlichen Informationssysteme geöffnet und kreuzreferenziert werden. Schon jetzt können die [ULB-Daten](https://www.uni-muenster.de/LODUM/data/ulb/) des Online-Kataloges, der Digitalen Sammlungen, der Lynda-Video-Trainings, des Open Journal Systems (OJS), historischer Musiknoten und des Publikationsservers miami tagesaktuell als zip-Exporte heruntergeladen werden. Auch wenn bislang noch recht wenige Institutionen der WWU ihre Daten über den LODUM-Server bereit stellen, bildet die Initiative einen wichtigen Baustein in der Open Data Strategie der WWU Münster.
 
 2. Opening Reproducible Research (O2R)
 
