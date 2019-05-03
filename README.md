@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-In dieser Arbeit werde ich zunächst zahlreiche datenbasierte Prozesse und Aktivitäten innerhalb der ULB Münster auflisten und darin jeweils kurz beschreiben, welche Daten in welcher Reihenfolge und in welcher Art und Weise in diesen Arbeitsprozessen fließen. Anschließend soll anhand zweier Beispiele der Umgang mit den Daten herausgearbeitet werden, um in einem letzten Schritt das Optimierungspotential dieser Prozesse zu beleuchten.
+In dieser Arbeit werden zunächst zahlreiche datenbasierte Prozesse und Aktivitäten innerhalb der ULB Münster aufgelistet und darin jeweils kurz beschreiben, welche Daten in welcher Reihenfolge und in welcher Art und Weise in den Arbeitsprozessen fließen. Anschließend sollen anhand zweier Beispiele Optimierungspotentiale dieser Prozesse beleuchtet werden.
 
 ## Datenflüsse und -aktivitäten im ULB-Kerngeschäft
 
