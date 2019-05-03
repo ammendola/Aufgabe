@@ -32,6 +32,8 @@ Ein weiteres Feld, in welchem ebenfalls zahlreiche Daten fließen, ist der Berei
 
 2. Opening Reproducible Research (O2R)
 
+Das Projekt [Opening Reproducible Research (O2R)](https://o2r.info/) ist ein DFG-gefördertes Projekt vom Institut für Geoinformatik und der ULB Münster. Es lief in einer ersten Phase von 2015 bis 2018 und hat erste Strukturen geschaffen, um die in Publikationen entstandenen Forschungsergebnisse reproduzierbar zu machen. Auf der [Projekt-Webseite](https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html) heißt es: Mit dem Projekt „zielen wir direkt auf zentrale Aspekte von Open Access ab, indem wir den Austausch von online veröffentlichten Forschungsergebnissen verbessern, die produktive Aneignung ermöglichen und deren Wiederverwendung vereinfachen.“ Im April 2019 hat die DFG hat das Folgeprojekt „O2R2“ für weitere 30 Monate bewilligt. In dieser zweiten Phase soll es nun darum gehen, die entwickelten Protoypen aus der ersten Phase mit existenten Artikeln zu testen und auf einer gemeinsam entwickelten Plattform dahingehend zu entwickeln, dass die Forschungsergebnisse dieser Artikel reproduzierbar gemacht werden können.
+
 3. sciebo-research Data Services (sciebo-RDS)
 
 4. Digitales Archiv NRW (DA NRW)
