@@ -48,11 +48,7 @@ Das Projekt [Opening Reproducible Research (O2R)](https://o2r.info/) ist ein DFG
 
 Ebenfalls in den Bereich Forschungsdatenmanagement zielt das auf drei Jahre von der DFG geförderte Projekt „sciebo-research Data Services (sciebo-RDS) – Forschungsdatenmanagementdienste und -werkzeuge für Wissenschaftler“. Es handelt sich um ein [Kooperationsprojekt](https://www.forschungsdaten.info/praxis-kompakt/fdm-in-den-bundeslaendern/nordrhein-westfalen/projekte/sciebords/) der ULB Münster, dem Rechenzentrum (ZIV) der WWU Münster und der Abteilung Informatik und Angewandte Kognitionswissenschaft der Universität Duisburg Essen. Als Kooperationspartner konnte die Universität Bielefeld gewonnen werden. In diesem Projekt geht es darum, ein niederschwelliges Angebot für das Management von Forschungsdaten zu entwickeln. Auf der Basis des Cloudspeicherdienstes sciebo, den das ZIV bereitstellt, sollen Werkzeuge, Workflows und Services entwickelt werden, um den Forschenden bei der Durchführung eines strukturierten Forschungsdatenmanagements zu helfen. 
 
-## Beispiel 1: Elektronischer Semesterapparat (ESA)
-
-- Projektskizze mit Workflow
-
-## Beispiel 2: Digitalisierung Historischer Zeitungen NRW
+## Beispiel: Digitalisierung Historischer Zeitungen NRW
 
 Im Rahmen eines vom Land Nordrhein-Westfalen zunächst für drei Jahre geförderten Projekts zur „Digitalisierung von historischen Zeitungen in Nordrhein-Westfalen“ wird gemeinsam mit der ULB Bonn ein repräsentativer Querschnitt der historischen nordrhein-westfälischen Zeitungen aus dem Erscheinungszeitraum 1801 bis 1945 digitalisiert und sowohl für die Forschung, als auch für die interessierte Öffentlichkeit kostenfrei und komfortabel im Zeitungsportal [zeit.punktNRW](https://zeitpunkt.nrw/) zur Verfügung gestellt. Auf dieser Plattform, die vom hbz in Köln gehostet wird, werden differenzierte Such- und Präsentationsmöglichkeiten geschaffen, die optimal auf die speziellen Objekte sowie auf die Fragestellungen verschiedener Nutzergruppen zugeschnitten sind.
 
@@ -66,7 +62,7 @@ Wichtig hierbei ist, dass die Batch-Datei zip.bat zusammen mit den Outputdatei-V
 
 https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png
 
-Alle ZIP-Dateien werden nun über einen SFTP-Server manuell mittels Log-Dateien und dem Programm Filezilla in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
+Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol)-Server manuell mittels Log-Dateien und dem Programm FileZilla in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
 
 https://user-images.githubusercontent.com/49555636/57214423-3abce880-6fea-11e9-9ca2-057c11ae3f6d.png
 
@@ -78,5 +74,7 @@ Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL
 
 https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8f0f-e341eeb26029.png
 
+**Optimierungspotenzial im Workflow**
 
+Im drittletzten Schritt des beschriebenen Datenfluss-Workflows könnte man aus Sicht des Autors den Prozess optimieren, indem man den bislang manuell durchgeführten Vorgang, die ZIP-Dateien manuell in das Upload-Verzeichnis hochzuladen, automatisiert. Könnte man hierfür (Frage an den Dozenten) ebenfalls eine Batch-Datei schreiben, die genau diesen Vorgang initiiert, sobald ZIP-Dateien auf dem lokalen Server generiert worden sind? Außerdem müsste in diesem Skript stehen, dass Dateien nur bis zu einer vorher definierten Größe in den Upload-Server hochgeladen werden, um diesen nicht "vollaufen" zu lassen. Dies ist im Übrigen auch der Hauptgrund, der mir genannt wurde, wieso dieser Teilprozess bislang manuell abläuft. Wenn man allerdings diesen Aspekt mitberücksichtigt, dürfte diese Gefahr beim Upload auszuschließen sein.
 
