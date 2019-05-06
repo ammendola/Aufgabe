@@ -30,7 +30,7 @@ Der Fachinformationsdienst (FID) Benelux ist ein DFG-gefördertes Projekt im Rah
 
 2. Digitalisierung Historischer Zeitungen NRW
 
-siehe Beispiel 2
+siehe Beispiel
 
 3. Digitales Archiv NRW (DA NRW)
 
@@ -76,5 +76,5 @@ https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8
 
 **Optimierungspotenzial im Workflow**
 
-Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht des Autors eine Möglichkeit, den Prozess dahingehend zu optimieren, dass man den bislang manuell durchgeführten Vorgang, die ZIP-Dateien in das Upload-Verzeichnis hochzuladen, automatisiert. Könnte man hierfür (zugleich eine Frage an den Dozenten) ebenfalls eine Batch-Datei schreiben, die genau diesen Vorgang initiiert, sobald ZIP-Dateien auf dem lokalen Server generiert worden sind (ggf. mit einem WATCH-Skript)? Außerdem müsste in dieser Batch-Datei stehen, dass Dateien nur bis zu einer vorher definierten Größe in den Upload-Server hochgeladen werden, um diesen nicht "volllaufen" zu lassen. Dies ist im Übrigen auch der Hauptgrund, der mir genannt wurde, wieso dieser Teilprozess bislang manuell abläuft. Wenn man allerdings diesen Aspekt mitberücksichtigt, dürfte diese Gefahr beim Upload auszuschließen sein.
+Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht des Autors eine Möglichkeit, den Prozess dahingehend zu optimieren, dass man den bislang manuell durchgeführten Vorgang, die ZIP-Dateien in das Upload-Verzeichnis hochzuladen, automatisiert. Könnte man hierfür (zugleich eine Frage an den Dozenten) ebenfalls eine Batch-Datei schreiben, die genau diesen Vorgang initiiert, sobald ZIP-Dateien auf dem lokalen Server generiert worden sind (ggf. mit einem Watch-Skript)? Außerdem müsste in dieser Batch-Datei stehen, dass Dateien nur bis zu einer vorher definierten Größe in den Upload-Server hochgeladen werden, um diesen nicht "volllaufen" zu lassen. Dies ist im Übrigen auch der Hauptgrund, der mir genannt wurde, wieso dieser Teilprozess bislang manuell abläuft. Wenn man allerdings diesen Aspekt mitberücksichtigt, dürfte diese Gefahr beim Upload auszuschließen sein.
 
