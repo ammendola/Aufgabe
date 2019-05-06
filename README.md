@@ -62,4 +62,21 @@ Im ersten Schritt werden die Mikrofilme mittels eines Mikrofilmscanners der *[Fa
 
 https://user-images.githubusercontent.com/49555636/57213930-8e2e3700-6fe8-11e9-9e41-3392864e5749.jpg
 
+Wichtig hierbei ist, dass die Batch-Datei zip.bat zusammen mit den Outputdatei-Verzeichnissen liegen müssen
+
+https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png
+
+Alle ZIP-Dateien werden nun über einen SFTP-Server manuell mittels Log-Dateien und dem Programm Filezilla in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
+
+https://user-images.githubusercontent.com/49555636/57214423-3abce880-6fea-11e9-9ca2-057c11ae3f6d.png
+
+In einem nächtlichen stattfindenden VL-Batchprozess werden die Daten automatisch entpackt und in die VL importiert:
+
+https://user-images.githubusercontent.com/49555636/57214432-3f819c80-6fea-11e9-90c7-762af6a5ef50.png
+
+Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL-Manager erfolgen:
+
+https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8f0f-e341eeb26029.png
+
+
 
