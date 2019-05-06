@@ -30,7 +30,7 @@ Der Fachinformationsdienst (FID) Benelux ist ein DFG-gefördertes Projekt im Rah
 
 2. Digitalisierung Historischer Zeitungen NRW
 
-siehe Beispiel
+**siehe Beispiel**
 
 3. Digitales Archiv NRW (DA NRW)
 
