@@ -60,6 +60,6 @@ Da sich das Projekt als Massendigitalisierungsprojekt versteht, werden historisc
 
 Im ersten Schritt werden die Mikrofilme mittels eines Mikrofilmscanners der *[Fa. Zeutschel OM 1600]* digitalisiert und damit Rohdaten für die weitere Verarbeitung erstellt. Die Digitalisate werden zunächst auf der lokalen Festplatte gespeichert und anschließend weiter bearbeitet. Dies ist notwendig, da die Zeitungsseiten in Form von sog. Strips noch unbeschnitten und entsprechend nicht zu gebrauchen sind. Die Bearbeitung dieser Rohdaten erfolgt mittels der Software [Quantum Process (Scan Version 1.02.26)](http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software) der [*Fa. acmisgroup*](http://www.acmisgroup.com/en). Über ein lokales Netzlaufwerk werden die Rohdaten nun in den Quantum Process geladen und dort bearbeitet. Zur Bearbeitung gehört die korrekte Rahmensetzung (Frames), ggf. die Drehung und Trennung von vorhandenen Doppelseiten. Das Ergebnis der Bearbeitung wird in einer [.qpf-Datei](https://www.reviversoft.com/de/file-extensions/qpf) gespeichert, mit der die Einstellung und die Parameter zu einem späteren Zeitpunkt wieder aufgerufen werden können. Anschließend werden mit Hilfe dieser qpf-Dateien die sog. Outputdateien im [TIFF-Format](https://de.wikipedia.org/wiki/Tagged_Image_File_Format) erstellt. Diese TIFF-Dateien werden auf dem lokalen Server mittels einer Batch-Datei als ZIP-Datei verpackt:
 
-![Batch-Datei](file:///C:/Users/ammendol/Desktop/BATCH_Zeitungen.jpg)
+[Batch-Datei](file:///C:/Users/ammendol/Desktop/BATCH_Zeitungen.jpg)
 
 
