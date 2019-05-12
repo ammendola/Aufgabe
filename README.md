@@ -72,7 +72,8 @@ https://user-images.githubusercontent.com/49555636/57214432-3f819c80-6fea-11e9-9
 
 Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL-Manager erfolgen:
 
-https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8f0f-e341eeb26029.png
+![Ordner Struktur](https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8f0f-e341eeb26029.png)
+
 
 **Optimierungspotenzial im Workflow**
 
