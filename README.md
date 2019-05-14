@@ -6,7 +6,7 @@ In diesem Papier werden zunächst die wichtigsten datenbasierten Prozesse und Ak
 
 ## Datenflüsse und -aktivitäten im ULB-Kerngeschäft
 
-<font size="12pt"> **1. Online-Katalog + Discovery-System** </font>
+<font size="12"> **1. Online-Katalog + Discovery-System**</font>
 
 Als eines der ältesten und wichtigsten datenbasierten Systeme ist der bereits in den 1990er Jahren entwickelte [Online-Katalog](https://katalogix.uni-muenster.de/Katalog/start.do) (damals noch OPAC) zu nennen. In diesem Katalog kann man alle Bücher, Zeitschriften und sonstigen Medien der ULB-Zentralbibliothek, der Zweigbibliotheken und aller Institutsbibliotheken der WWU Münster recherchieren.
 
