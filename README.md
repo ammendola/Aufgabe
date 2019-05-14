@@ -16,7 +16,7 @@ Sämtliche Daten aus der zentralen Datenbank werden zweifach abgesichert: Zum ei
 
 Im Hinblick auf den Online-Katalog sei noch erwähnt, dass hierin auch persönliche Daten der Angehörigen der WWU verwaltet werden. Diese Daten stammen aus dem Identitätsmanagement des hiesigen Rechenzentrums (ZIV) und werden mittels eines standardisierten [Netzwerkprotokolls (LDAP)](https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) für die Nutzung der persönlichen ULB-Konten verwendet.   
 
-2. Retrodigitalisierung
+**2. Retrodigitalisierung**
 
 Die ULB digitalisiert bereits seit einigen Jahren ihre historischen Bestände systematisch bzw. nach bestimmten strategischen Kriterien ([Westfalica](https://www.ulb.uni-muenster.de/sammlungen/westfalica/), [Historische Drucke](https://www.ulb.uni-muenster.de/sammlungen/historisch/index.html), [Nachlässe](https://www.ulb.uni-muenster.de/sammlungen/nachlaesse/index.html)).
 
