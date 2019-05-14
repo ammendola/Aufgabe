@@ -6,7 +6,7 @@ In diesem Papier werden zunächst die wichtigsten datenbasierten Prozesse und Ak
 
 ## Datenflüsse und -aktivitäten im ULB-Kerngeschäft
 
-*1. Online-Katalog + Discovery-System*
+**1. Online-Katalog + Discovery-System**
 
 Als eines der ältesten und wichtigsten datenbasierten Systeme ist der bereits in den 1990er Jahren entwickelte [Online-Katalog](https://katalogix.uni-muenster.de/Katalog/start.do) (damals noch OPAC) zu nennen. In diesem Katalog kann man alle Bücher, Zeitschriften und sonstigen Medien der ULB-Zentralbibliothek, der Zweigbibliotheken und aller Institutsbibliotheken der WWU Münster recherchieren.
 
@@ -22,13 +22,13 @@ Die ULB digitalisiert bereits seit einigen Jahren ihre historischen Bestände sy
 
 Sie verwendet hierfür die Software [Visual Library (VL)](https://www.semantics.de/visual_library/) der Aachener [Fa. *semantics*](https://www.semantics.de/). Die VL ist eine speziell für Bibliotheken und Informationseinrichtungen entwickelte Visualisierungssoftware u.a. im Bereich Retrodigitalisierung. In Verbindung mit der Software [Multidotscan](http://www.walternagel.de/multidotscan) der mit [*semantics*](https://www.semantics.de/) kooperierenden Bielefelder [Fa. *Walter Nagel*](http://www.walternagel.de/) lässt sich der gesamte Prozess von der Digitalisierung bis hin zur Präsentation im Portal der ULB durchautomatisiert abbilden. Zunächst wird am jeweiligen Buchscanner ein Scan-Job eingerichtet, der für den Job eine eindeutige ID generiert (= sog. HT-Nummer) und per nächtlichem Import automatisch auf dem VL-Server abgelegt wird. Anschließend werden die Titeldaten über eine Abfrage der HT-Nummer aus dem Verbundkatalog des hbz in Köln importiert und gemeinsam mit den Images in der VL angezeigt. Nachdem anschließend die VL-Manager den Titel inhaltlich strukturiert haben (Inhaltsverzeichnis, Buchkapitel etc.), wird der Titel freigegeben, mit einer Nutzungslizenz (z.B. mit [Creative Commons Lizenzen](https://creativecommons.org/)) versehen und in den [Digitalen Sammlungen der ULB](https://sammlungen.ulb.uni-muenster.de/) angezeigt.  
 
-3. Elektronischer Semesterapparat (ESA)
+**3. Elektronischer Semesterapparat (ESA)**
 
 Dozenten der WWU Münster haben seit 2010 die Möglichkeit, im [Learnweb](https://www.uni-muenster.de/LearnWeb/learnweb2/) (Moodle) [einen elektronischen Semesterapparat](https://www.ulb.uni-muenster.de/service/esa/dozenten-info.html) für ihre Studierenden zu erstellen und (selbst Teile urheberrechtlich geschützter) Literatur von Mitarbeitern der ULB digitalisieren zu lassen.
 
 Die ULB Münster verwendet für diesen Workflow das eigens für solche Zwecke entwickelte [ESA-Modul](http://www.walternagel.de/elektronischer-semesterapparat) der schon in Punkt 2. genannten [Fa. *Walter Nagel*](http://www.walternagel.de/). Der Dozent recherchiert also im Moodle im lokalen Bestand der ULB die relevante Literatur und erteilt einen Digitalisierungsauftrag. Sobald der Auftrag im ESA-System eingegangen ist, prüft das Team Fernleihe zunächst den Auftrag. Die Prüfung bezieht sich vor allem auf urheberrechtliche Fragen, wenn der Dozent etwa mehr als 15 % eines Werkes digitalisiert haben möchte oder auch auf konservatorische Aspekte, die gegen eine Digitalisierung besonders von älteren beeinträchtigten Werken sprechen könnten. Fällt die Prüfung positiv aus, druckt das Team Fernleihe den Auftragsschein aus, der im ESA-System automatisch generiert wird und alle wichtigen Metadaten inkl. einer Auftragsnummer enthält. Im Rahmen von täglichen Routinegängen holt das Team ESA in der Fernleihe vorhandene Auftragszettel inkl. der dazugehörigen Bücher ab und stellt am Scanner einen speziellen ESA-Scanjob mithilfe der Auftragsnummer ein. Letzteres ist besonders wichtig, damit der Scanjob später dem richtigen Dozenten und dem richtigen Kursraum zugeordnet werden kann. Nach Abschluss des Scanjobs legt das Team ESA die erstellte Bilddatei in einen Importordner ab, in welchem daraus automatisch ein PDF erzeugt wird. Nach der automatischen PDF-Generierung der Datei erscheint (ebenfalls automatisiert) im Kursraum des Dozenten das betreffende PDF und der Dozent eine E-Mail, dass er ab sofort Zugriff auf die Datei hat.
 
-4. Forschungsdatenmanagement
+**4. Forschungsdatenmanagement**
 
 Ein weiteres Feld, in welchem in der ULB zahlreiche Daten fließen, ist der Bereich Forschungsdatenmanagement. Hier tritt die ULB gemeinsam mit dem [Zentrum für Informationsverarbeitung](https://www.uni-muenster.de/ZIV/) (ZIV) als Servicedienstleister für die Wissenschaftler der WWU Münster auf, um die im Rahmen ihrer Forschungen auftretenden Daten aufzubereiten und langfristig zu speichern (max. 10 Jahre).
 
@@ -36,7 +36,7 @@ In Form eines [Servicepunkts Forschungsdaten](https://www.uni-muenster.de/Forsch
 
 ## Datenintensive Projekte mit ULB-Beteiligung
 
-1. Fachinformationsdienst (FID) Benelux
+**1. Fachinformationsdienst (FID) Benelux**
 
 Der Fachinformationsdienst (FID) Benelux ist ein DFG-gefördertes Projekt im Rahmen des Förderprogramms [Fachinformationsdienste für die Wissenschaft](https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html) und ist das Nachfolgeformat der 2015 ausgelaufenen Sondersammelgebiete (SSG), hier des SSG Niederländischer Kulturkreis.
 
@@ -45,11 +45,11 @@ Damit der FID seinem Selbstverständnis als
 
 gerecht werden kann, gibt es neben zahlreichen Services in der ULB das [Rechercheportal FID Benelux](https://www.fid-benelux.de/literatur-recherche/suche/) als zentrale Suchmaschine für forschungsrelevante Literatur über die Kultur und Gesellschaft der Beneluxländer. Um diese spezielle Literatur in einem eigenen Portal suchbar machen zu können, werden Benelux-relevante Titel von einschlägigen liefernden Bibliotheken entweder über MARC21XML-Exporte über einen FTP-Server in die zentrale Datenbank der ULB importiert, um von dort aus in den Online-Katalog und in das Discovery-System zu gelangen. Ein anderer Weg, um an relevante Literatur für das Rechercheportal zu gelangen, ist das Harvesten (Einsammeln) relevanter Literatur über offene [OAI-Schnittstellen](http://www.openarchives.org/), die den offenen Austausch von Metadaten zum Ziel haben. Hierfür kommen zumeist sog. „OAI-Harvester“ zum Einsatz, wie etwa auch in der [Deutschen Nationalbibliothek (DNB)](https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html). Um die eingesammelten Metadaten nun mit dem genannten FTP-Server und der zentralen Datenbank der ULB zu synchronisieren und semantisch verstehbar zu machen, werden spezielle Computerprogramm namens [Parser](https://de.wikipedia.org/wiki/Parser) eingesetzt. 
 
-2. Digitalisierung Historischer Zeitungen NRW
+**2. Digitalisierung Historischer Zeitungen NRW**
 
-**siehe Beispiel**
+*siehe Beispiel*
 
-3. Digitales Archiv NRW (DA NRW)
+**3. Digitales Archiv NRW (DA NRW)**
 
 Das Landesprojekt Digitales Archiv NRW hat sich auf ihrer [Webseite](https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/) Folgendes auf ihre Fahnen geschrieben:
 > Das DA NRW ist ein informationstechnisches Angebot für alle Einrichtungen, die ihr elektronisches Kulturgut nach dem Archivgesetz und Pflichtexemplargesetz sicher und auf Dauer speichern müssen. Zur Nutzung von Synergieeffekten wird die Dienstleistung in einem Verbund verschiedener Dienstleister des Landes und der Kommunen bereitgestellt.
@@ -60,13 +60,13 @@ Für die Migration der Daten ins DA NRW spielt die Fa. *semantics* insofern eine
 
 Die Datenübertragungsstraßen von der VL ins DA NRW werden zurzeit eingerichtet und voraussichtlich im Sommer 2019 zur Nutzung freigegeben.
 
-4. Linked Open Data University of Münster (LODUM)
+**4. Linked Open Data University of Münster (LODUM)**
 
 [LODUM](https://www.uni-muenster.de/LODUM/) ist die Open Data Initiative an der WWU Münster. Sie hat sich zum Ziel gesetzt, alle öffentlichen Information über die Universität in maschinenlesbaren Formaten für den einfachen Zugang und zur einfachen Wiederverwendung zur Verfügung zu stellen. LODUM möchte einen One-Stop Shop für alle Daten der WWU voranbringen, indem Daten von unterschiedlichen Informationssystemen geöffnet und kreuzreferenziert werden.
 
 Schon jetzt können die [ULB-Daten](https://www.uni-muenster.de/LODUM/data/ulb/) des Online-Kataloges, der Digitalen Sammlungen, der Lynda-Video-Trainings, des Open Journal Systems (OJS), historischer Musiknoten und des Publikationsservers miami tagesaktuell als [zip](https://de.wikipedia.org/wiki/ZIP-Dateiformat)-Exporte heruntergeladen werden. Auch wenn bislang noch recht wenige Institutionen der WWU ihre Daten über den LODUM-Server bereitstellen, bildet die Initiative einen wichtigen Baustein in der Open Data Strategie der WWU Münster.
 
-5. Opening Reproducible Research (O2R)
+**5. Opening Reproducible Research (O2R)**
 
 Das Projekt [Opening Reproducible Research (O2R)](https://o2r.info/) ist ein DFG-gefördertes Projekt vom Münsteraner Institut für Geoinformatik und der ULB Münster. Es lief in einer ersten Phase von 2015 bis 2018 und hat erste Strukturen geschaffen, um die in Publikationen entstandenen Forschungsergebnisse reproduzierbar zu machen.
 
@@ -75,7 +75,7 @@ Auf der [Projekt-Webseite](https://www.uni-muenster.de/Geoinformatics/research/p
 
 Im April 2019 hat die DFG das Folgeprojekt „O2R2“ für weitere 30 Monate bewilligt. In dieser zweiten Phase soll es nun darum gehen, die entwickelten Prototypen aus der ersten Phase mit existenten Artikeln zu testen und auf einer gemeinsam entwickelten Plattform die Forschungsergebnisse dieser Artikel reproduzierbar zu machen.
 
-6. sciebo-research Data Services (sciebo-RDS)
+**6. sciebo-research Data Services (sciebo-RDS)**
 
 Ebenfalls in den Bereich Forschungsdatenmanagement zielt das auf drei Jahre von der DFG geförderte Projekt „sciebo-research Data Services (sciebo-RDS) – Forschungsdatenmanagementdienste und -werkzeuge für Wissenschaftler“.
 
@@ -91,15 +91,15 @@ Da sich das Projekt als Massendigitalisierungsprojekt versteht, werden historisc
 
 Im ersten Schritt werden die Mikrofilme mit dem Mikrofilmscanner OM 1600 der [Fa. *Zeutschel*](https://www.zeutschel.de/de/) digitalisiert und damit die Rohdaten für die weitere Verarbeitung erzeugt. Diese Roh-Digitalisate werden zunächst auf einer lokalen Festplatte gespeichert und anschließend weiter bearbeitet. Dies ist notwendig, da die Zeitungsseiten in Form von sog. Strips noch unbeschnitten und entsprechend noch nicht präsentabel sind. Die Bearbeitung dieser Rohdaten erfolgt anhand der Software [Quantum Process (Scan Version 1.02.26)](http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software) der [Fa. *acmisgroup*](http://www.acmisgroup.com/en). Über ein lokales Netzlaufwerk werden die Rohdaten nun in den Quantum Process geladen und dort bearbeitet. Dazu gehört die korrekte Rahmensetzung (Frames), ggf. die Drehung sowie die Trennung vorhandener Doppelseiten. Das Ergebnis wird in einer [.qpf-Datei](https://www.reviversoft.com/de/file-extensions/qpf) gespeichert, mit der die Einstellung und die Parameter zu einem späteren Zeitpunkt wieder aufgerufen werden können. Anschließend werden mit Hilfe dieser .qpf-Dateien die sog. Outputdateien im [TIFF-Format](https://de.wikipedia.org/wiki/Tagged_Image_File_Format) erstellt. Diese TIFF-Dateien werden auf dem lokalen Server mittels einer Batch-Datei als ZIP-Datei verpackt:
 
-![Ordner Struktur](https://user-images.githubusercontent.com/49555636/57213930-8e2e3700-6fe8-11e9-9e41-3392864e5749.jpg)
+![Verpackung ZIP-Datei](https://user-images.githubusercontent.com/49555636/57213930-8e2e3700-6fe8-11e9-9e41-3392864e5749.jpg)
 
 Wichtig hierbei ist, dass die Batch-Datei zip.bat zusammen mit den Outputdatei-Verzeichnissen liegen müssen:
 
-![Ordner Struktur](https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png)
+![Verzeichnis Struktur](https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png)
 
 Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol)-Server manuell mittels Log-Dateien und dem Programm [FileZilla](https://filezilla-project.org/) in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
 
-![Zip-Upload](https://user-images.githubusercontent.com/49555636/57214423-3abce880-6fea-11e9-9ca2-057c11ae3f6d.png)
+![ZIP-Upload](https://user-images.githubusercontent.com/49555636/57214423-3abce880-6fea-11e9-9ca2-057c11ae3f6d.png)
 
 In einem nächtlich stattfindenden VL-Batchprozess werden die Daten automatisch entpackt und in die VL importiert:
 
