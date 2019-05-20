@@ -40,7 +40,7 @@ In Form eines [Servicepunkts Forschungsdaten](https://www.uni-muenster.de/Forsch
 
 Der Fachinformationsdienst (FID) Benelux ist ein DFG-gefördertes Projekt im Rahmen des Förderprogramms [Fachinformationsdienste für die Wissenschaft](https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html) und ist das Nachfolgeformat der 2015 ausgelaufenen Sondersammelgebiete (SSG), hier des SSG Niederländischer Kulturkreis.
 
-Damit der FID seinem Selbstverständnis als
+Damit der FID seinem [Selbstverständnis](https://www.fid-benelux.de/der-fid/ueber-uns/#profil) als
 >zentrale Anlaufstelle für forschungsrelevante Literatur und Informationen über die Kultur und Gesellschaft der Beneluxländer sowie für forschungsunterstützende Services 
 
 gerecht werden kann, gibt es neben zahlreichen Services in der ULB das [Rechercheportal FID Benelux](https://www.fid-benelux.de/literatur-recherche/suche/) als zentrale Suchmaschine für forschungsrelevante Literatur über die Kultur und Gesellschaft der Beneluxländer. Um diese spezielle Literatur in einem eigenen Portal suchbar machen zu können, werden Benelux-relevante Titel von einschlägigen liefernden Bibliotheken entweder über MARC21XML-Exporte über einen FTP-Server in die zentrale Datenbank der ULB importiert, um von dort aus in den Online-Katalog und in das Discovery-System zu gelangen. Ein anderer Weg, um an relevante Literatur für das Rechercheportal zu gelangen, ist das Harvesten (Einsammeln) relevanter Literatur über offene [OAI-Schnittstellen](http://www.openarchives.org/), die den offenen Austausch von Metadaten zum Ziel haben. Hierfür kommen zumeist sog. „OAI-Harvester“ zum Einsatz, wie etwa auch in der [Deutschen Nationalbibliothek (DNB)](https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html). Um die eingesammelten Metadaten nun mit dem genannten FTP-Server und der zentralen Datenbank der ULB zu synchronisieren und semantisch verstehbar zu machen, werden spezielle Computerprogramm namens [Parser](https://de.wikipedia.org/wiki/Parser) eingesetzt. 
@@ -135,7 +135,8 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * Deutsche Forschungsgemeinschaft (DFG), Fachinformationsdienste für die Wissenschaft. URL: https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html (zuletzt abgerufen am 20.05.2019).
 * Deutsche Nationalbibliothek (DNB), OAI-Schnittstelle. URL: https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html (zuletzt abgerufen am 20.05.2019).
 * Europeana. URL: https://www.europeana.eu/portal/de (zuletzt abgerufen am 20.05.2019).
-* FID Benelux Low Countries Studies, Rechercheportal. URL: https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).  
+* FID Benelux Low Countries Studies, Profil, URL: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
+* FID Benelux Low Countries Studies, Rechercheportal. URL: https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).
 * FileZilla. URL: https://filezilla-project.org/ (zuletzt abgerufen am 20.05.2019).
 * Open Archives Initiative. URL: http://www.openarchives.org/ (zuletzt abgerufen am 20.05.2019).
 * Opening Reproducible Research. URL: https://o2r.info/ (zuletzt abgerufen am 20.05.2019).
