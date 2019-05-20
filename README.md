@@ -52,7 +52,7 @@ gerecht werden kann, gibt es neben zahlreichen Services in der ULB das [Recherch
 ### 3. Digitales Archiv NRW (DA NRW)
 
 Das Landesprojekt Digitales Archiv NRW hat sich auf ihrer [Webseite](https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/) Folgendes auf ihre Fahnen geschrieben:
-> Das DA NRW ist ein informationstechnisches Angebot für alle Einrichtungen, die ihr elektronisches Kulturgut nach dem Archivgesetz und Pflichtexemplargesetz sicher und auf Dauer speichern müssen. Zur Nutzung von Synergieeffekten wird die Dienstleistung in einem Verbund verschiedener Dienstleister des Landes und der Kommunen bereitgestellt.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>
+> Das DA NRW ist ein informationstechnisches Angebot für alle Einrichtungen, die ihr elektronisches Kulturgut nach dem Archivgesetz und Pflichtexemplargesetz sicher und auf Dauer speichern müssen. Zur Nutzung von Synergieeffekten wird die Dienstleistung in einem Verbund verschiedener Dienstleister des Landes und der Kommunen bereitgestellt.<sup id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup>
 
 Zudem sollen die Daten nicht nur langzeitarchiviert bzw. -gespeichert werden, sondern auch für die Zulieferung in weitere Portal dienen ([DDB](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/portal/de)). Als Testpartner der ersten Stunde hat die ULB Münster bereits Erfahrungen mit dem Workflow gesammelt, wie und auf welchen Wegen die Daten ins DA NRW migriert werden können.
 
