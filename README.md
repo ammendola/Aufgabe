@@ -89,26 +89,30 @@ Auf dieser Plattform, die vom hbz in Köln gehostet wird, werden mit Hilfe der V
 
 Da sich das Projekt als Massendigitalisierungsprojekt versteht, werden historische Zeitungen in der ersten (und auch in einer möglichen zweiten Förderphase ab 2020) vornehmlich von Master-Mikrofilmen digitalisiert. Hierfür wurde ein bestimmter technischer Workflow entwickelt, der im Folgenden dargestellt und mit einer Idee zur Optimierung des Workflows endet:
 
-Im ersten Schritt werden die Mikrofilme mit dem Mikrofilmscanner OM 1600 der [Fa. *Zeutschel*](https://www.zeutschel.de/de/) digitalisiert und damit die Rohdaten für die weitere Verarbeitung erzeugt. Diese Roh-Digitalisate werden zunächst auf einer lokalen Festplatte gespeichert und anschließend weiter bearbeitet. Dies ist notwendig, da die Zeitungsseiten in Form von sog. Strips noch unbeschnitten und entsprechend noch nicht präsentabel sind. Die Bearbeitung dieser Rohdaten erfolgt anhand der Software [Quantum Process (Scan Version 1.02.26)](http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software) der [Fa. *acmisgroup*](http://www.acmisgroup.com/en). Über ein lokales Netzlaufwerk werden die Rohdaten nun in den Quantum Process geladen und dort bearbeitet. Dazu gehört die korrekte Rahmensetzung (Frames), ggf. die Drehung sowie die Trennung vorhandener Doppelseiten. Das Ergebnis wird in einer [.qpf-Datei](https://www.reviversoft.com/de/file-extensions/qpf) gespeichert, mit der die Einstellung und die Parameter zu einem späteren Zeitpunkt wieder aufgerufen werden können. Anschließend werden mit Hilfe dieser .qpf-Dateien die sog. Outputdateien im [TIFF-Format](https://de.wikipedia.org/wiki/Tagged_Image_File_Format) erstellt. Diese TIFF-Dateien werden auf dem lokalen Server mittels einer Batch-Datei als ZIP-Datei verpackt:[^1]\
+Im ersten Schritt werden die Mikrofilme mit dem Mikrofilmscanner OM 1600 der [Fa. *Zeutschel*](https://www.zeutschel.de/de/) digitalisiert und damit die Rohdaten für die weitere Verarbeitung erzeugt. Diese Roh-Digitalisate werden zunächst auf einer lokalen Festplatte gespeichert und anschließend weiter bearbeitet. Dies ist notwendig, da die Zeitungsseiten in Form von sog. Strips noch unbeschnitten und entsprechend noch nicht präsentabel sind. Die Bearbeitung dieser Rohdaten erfolgt anhand der Software [Quantum Process (Scan Version 1.02.26)](http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software) der [Fa. *acmisgroup*](http://www.acmisgroup.com/en). Über ein lokales Netzlaufwerk werden die Rohdaten nun in den Quantum Process geladen und dort bearbeitet. Dazu gehört die korrekte Rahmensetzung (Frames), ggf. die Drehung sowie die Trennung vorhandener Doppelseiten. Das Ergebnis wird in einer [.qpf-Datei](https://www.reviversoft.com/de/file-extensions/qpf) gespeichert, mit der die Einstellung und die Parameter zu einem späteren Zeitpunkt wieder aufgerufen werden können. Anschließend werden mit Hilfe dieser .qpf-Dateien die sog. Outputdateien im [TIFF-Format](https://de.wikipedia.org/wiki/Tagged_Image_File_Format) erstellt. Diese TIFF-Dateien werden auf dem lokalen Server mittels einer Batch-Datei als ZIP-Datei verpackt:
 
 ![Verpackung ZIP-Datei](https://user-images.githubusercontent.com/49555636/57213930-8e2e3700-6fe8-11e9-9e41-3392864e5749.jpg)
+*aus internem ULB-Dokument
 
 Wichtig hierbei ist, dass die Batch-Datei zip.bat zusammen mit den Outputdatei-Verzeichnissen liegen müssen:
 
 ![Verzeichnis Struktur](https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png)
+*aus internem ULB-Dokument
 
 Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol)-Server manuell mittels Log-Dateien und dem Programm [FileZilla](https://filezilla-project.org/) in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
 
 ![ZIP-Upload](https://user-images.githubusercontent.com/49555636/57214423-3abce880-6fea-11e9-9ca2-057c11ae3f6d.png)
+*aus internem ULB-Dokument
 
 In einem nächtlich stattfindenden VL-Batchprozess werden die Daten automatisch entpackt und in die VL importiert:
 
 ![Batch-Import](https://user-images.githubusercontent.com/49555636/57214432-3f819c80-6fea-11e9-90c7-762af6a5ef50.png)
+*aus internem ULB-Dokument
 
 Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL-Manager erfolgen:
 
 ![Ordner Struktur](https://user-images.githubusercontent.com/49555636/57214437-427c8d00-6fea-11e9-8f0f-e341eeb26029.png)
-
+*aus internem ULB-Dokument
 
 ### Optimierungspotenzial im Workflow
 
