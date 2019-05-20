@@ -71,7 +71,7 @@ Schon jetzt können die [ULB-Daten](https://www.uni-muenster.de/LODUM/data/ulb/)
 Das Projekt [Opening Reproducible Research (O2R)](https://o2r.info/) ist ein DFG-gefördertes Projekt vom Münsteraner Institut für Geoinformatik und der ULB Münster. Es lief in einer ersten Phase von 2015 bis 2018 und hat erste Strukturen geschaffen, um die in Publikationen entstandenen Forschungsergebnisse reproduzierbar zu machen.
 
 Auf der [Projekt-Webseite](https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html) heißt es: Mit dem Projekt
->zielen wir direkt auf zentrale Aspekte von Open Access ab, indem wir den Austausch von online veröffentlichten Forschungsergebnissen verbessern, die produktive Aneignung ermöglichen und deren Wiederverwendung vereinfachen.
+>zielen wir direkt auf zentrale Aspekte von Open Access ab, indem wir den Austausch von online veröffentlichten Forschungsergebnissen verbessern, die produktive Aneignung ermöglichen und deren Wiederverwendung vereinfachen.<sup>[3]
 
 Im April 2019 hat die DFG das Folgeprojekt „O2R2“ für weitere 30 Monate bewilligt. In dieser zweiten Phase soll es nun darum gehen, die entwickelten Prototypen aus der ersten Phase mit existenten Artikeln zu testen und auf einer gemeinsam entwickelten Plattform die Forschungsergebnisse dieser Artikel reproduzierbar zu machen.
 
@@ -176,8 +176,10 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * zeit.punktNRW. URL: https://zeitpunkt.nrw/ (zuletzt abgerufen am 20.05.2019).
 * Zeutschel. URL: https://www.zeutschel.de/de/ (zuletzt abgerufen am 20.05.2019).
 
-<div class="footnotes">
+
 [1]: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
 
-[2]: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).                                                                                             
+[2]: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).
+
+[3]: https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html (zuletzt abgerufen am 20.05.2019).
                                                                                           
