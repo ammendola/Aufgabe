@@ -96,6 +96,7 @@ Im ersten Schritt werden die Mikrofilme mit dem Mikrofilmscanner OM 1600 der [Fa
 Wichtig hierbei ist, dass die Batch-Datei zip.bat zusammen mit den Outputdatei-Verzeichnissen liegen müssen:
 
 ![Verzeichnis Struktur](https://user-images.githubusercontent.com/49555636/57214056-0268da80-6fe9-11e9-9e17-0f28862fc152.png)
+
 *aus internem ULB-Dokument*
 
 Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH_File_Transfer_Protocol)-Server manuell mittels Log-Dateien und dem Programm [FileZilla](https://filezilla-project.org/) in das Upload-Verzeichnis „ULB MS“ des hbz hochgeladen. Hier wird eine Verbindung zu zdiginrw.hbz.nrw.de aufgebaut, anschließend in das Verzeichnis zdiginrwulbms gewechselt und die Dateien hochgeladen:
@@ -106,7 +107,6 @@ Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH
 In einem nächtlich stattfindenden VL-Batchprozess werden die Daten automatisch entpackt und in die VL importiert:
 
 ![Batch-Import](https://user-images.githubusercontent.com/49555636/57214432-3f819c80-6fea-11e9-90c7-762af6a5ef50.png)
-
 *aus internem ULB-Dokument*
 
 Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL-Manager erfolgen:
@@ -174,5 +174,3 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * WWU Münster, Zentrum für Informationsverarbeitung (ZIV). URL: https://www.uni-muenster.de/ZIV/ (zuletzt abgerufen am 20.05.2019).
 * zeit.punktNRW. URL: https://zeitpunkt.nrw/ (zuletzt abgerufen am 20.05.2019).
 * Zeutschel. URL: https://www.zeutschel.de/de/ (zuletzt abgerufen am 20.05.2019).
-
-[^1]: Aus internen ULB-Dokumenten.
