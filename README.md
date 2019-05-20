@@ -114,3 +114,12 @@ Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL
 
 Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht des Autors eine Möglichkeit, den Prozess dahingehend zu optimieren, dass man den bislang manuell durchgeführten Vorgang, die ZIP-Dateien in das Upload-Verzeichnis hochzuladen, automatisiert. Hierfür könnte man eine weitere Batch-Datei schreiben, die genau diesen Vorgang initiiert, sobald ZIP-Dateien auf dem lokalen Server generiert worden sind (ggf. mit einem Watch-Skript). In dieser Batch-Datei müsste außerdem programmiert werden, dass ZIP-Dateien nur in den Upload-Server hochgeladen werden können, solange dort genügend Speicher vorhanden ist, um diesen nicht „volllaufen“ zu lassen. Sobald der Speicher des Servers ausgereizt ist, wird der Uploadvorgang (der dann als zu groß erkannten zip-Datei) blockiert und erst dann wieder fortgesetzt, wenn wieder genügend Speicher vorhanden ist. Es ist noch zu klären, ob der Speicher manuell oder auch automatisiert durch Löschen vorhandener zip-Dateien freigegeben werden kann. Schließlich muss noch getestet werden, wie groß die Datenmenge in einem Upload-Vorgang sein darf, damit der Upload in einem nächtlichen Prozess durchgelaufen ist. Die täglichen Arbeitsprozesse in der VL dürfen durch einen fortdauernden Upload am nächsten Morgen auf keinen Fall behindert werden.
 
+## Quellen
+
+1. Gespräche mit zwei IT- und Datenexperten der ULB Münster (Dez. Digitale Dienste)
+
+2. Webquellen:
+
+* ULB-Online-Katalog (https://katalogix.uni-muenster.de/Katalog/start.do), zuletzt abgerufen am 20.05.2019.
+* 
+
