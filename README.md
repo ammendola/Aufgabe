@@ -182,7 +182,7 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 <li id="fn:1">
 <ol>
 <p>https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).<a href="#fnref:1"
-
+<div class="footnotes">
 <hr>
 <ol>
 <li id="fn:2">
