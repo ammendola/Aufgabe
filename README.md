@@ -128,13 +128,13 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * Deutsche Forschungsgemeinschaft (DFG), Fachinformationsdienste für die Wissenschaft. URL: https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html (zuletzt abgerufen am 20.05.2019).
 * Deutsche Nationalbibliothek (DNB), OAI-Schnittstelle. URL: https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html (zuletzt abgerufen am 20.05.2019).
 * Europeana. URL: https://www.europeana.eu/portal/de (zuletzt abgerufen am 20.05.2019).
-* FID Benelux Low Countries Studies, Rechercheportal. URL:https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).  
+* FID Benelux Low Countries Studies, Rechercheportal. URL: https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).  
 * FileZilla. URL: https://filezilla-project.org/ (zuletzt abgerufen am 20.05.2019).
 * Open Archives Initiative. URL: http://www.openarchives.org/ (zuletzt abgerufen am 20.05.2019).
 * Opening Reproducible Research. URL: https://o2r.info/ (zuletzt abgerufen am 20.05.2019).
 * PostgreSQL. URL: https://www.postgresql.org/ (zuletzt abgerufen am 20.05.2019).
 * Seite „File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 18. Mai 2019, 22:40 UTC. URL: https://de.wikipedia.org/w/index.php?title=File_Transfer_Protocol&oldid=188716771 (zuletzt abgerufen am 20.05.2019).
-Seite „Lightweight Directory Access Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 06:53 UTC. URL: https://de.wikipedia.org/w/index.php?title=Lightweight_Directory_Access_Protocol&oldid=188315409 (zuletzt abgerufen am 20.05.2019). 
+* Seite „Lightweight Directory Access Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 06:53 UTC. URL: https://de.wikipedia.org/w/index.php?title=Lightweight_Directory_Access_Protocol&oldid=188315409 (zuletzt abgerufen am 20.05.2019). 
 * Seite „Master-Slave-Betrieb“. In: ITWissen.info. URL: https://www.itwissen.info/Master-Slave-Betrieb-master-slave-operation.html (zuletzt abgerufen am 20.05.2019).
 * Seite „Parser“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 13. Juni 2018, 17:09 UTC. URL: https://de.wikipedia.org/w/index.php?title=Parser&oldid=178286070 (zuletzt abgerufen am 20.05.2019).
 * Seite „Primo Central“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 8. Mai 2019, 04:48 UTC. URL: https://de.wikipedia.org/w/index.php?title=Primo_Central&oldid=188346136 (zuletzt abgerufen am 20.05.2019).
