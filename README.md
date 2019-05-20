@@ -106,6 +106,7 @@ Alle ZIP-Dateien werden nun über einen [SFTP](https://de.wikipedia.org/wiki/SSH
 In einem nächtlich stattfindenden VL-Batchprozess werden die Daten automatisch entpackt und in die VL importiert:
 
 ![Batch-Import](https://user-images.githubusercontent.com/49555636/57214432-3f819c80-6fea-11e9-90c7-762af6a5ef50.png)
+
 *aus internem ULB-Dokument*
 
 Am folgenden Tag kann dann die Bearbeitung der hochgeladenen Images durch die VL-Manager erfolgen:
@@ -122,7 +123,9 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 
 1. Persönliche Gespräche mit zwei IT- und Datenexperten der ULB Münster (Dez. Digitale Dienste)
 
-2. Webquellen:
+2. Interne ULB-Dokumente
+
+3. Webquellen:
 
 * Acmisgroup. URL: http://www.acmisgroup.com/en (zuletzt abgerufen am 20.05.2019).
 * Acmisgroup, Mekel Quantum Process Software. URL: http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software (zuletzt abgerufen am 20.05.2019).
