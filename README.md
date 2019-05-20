@@ -120,50 +120,50 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 
 2. Webquellen:
 
-* Acmisgroup, Homepage. URL: http://www.acmisgroup.com/en, zuletzt abgerufen am 20.05.2019.
-* Acmisgroup, Quantum Process Software. URL: http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software, zuletzt abgerufen am 20.05.2019.
-* Creative Commons, Homepage. URL: https://creativecommons.org/, zuletzt abgerufen am 20.05.2019.
-* Digitales Archiv NRW (DA NRW), Homepage: URL: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/, zuletzt abgerufen am 20.05.2019.
-* Deutsche Digitale Bibliothek (DDB), Homepage. URL: https://www.deutsche-digitale-bibliothek.de/, zuletzt abgerufen am 20.05.2019.
-* Deutsche Forschungsgemeinschaft (DFG), Fachinformationsdienste für die Wissenschaft. URL: https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html, zuletzt abgerufen am 20.05.2019.
-* Deutsche Nationalbibliothek (DNB), OAI-Schnittstelle. URL: https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html, zuletzt abgerufen am 20.05.2019.
-* Europeana, Homepage. URL: https://www.europeana.eu/portal/de, zuletzt abgerufen am 20.05.2019.
-* FID Benelux Low Countries Studies, Rechercheportal. URL:https://www.fid-benelux.de/literatur-recherche/suche/, zuletzt abgerufen am 20.05.2019.  
-* FileZilla, Homepage. URL: https://filezilla-project.org/, zuletzt abgerufen am 20.05.2019.
-* Open Archives Initiative. URL: http://www.openarchives.org/, zuletzt abgerufen am 20.05.2019.
-* Opening Reproducible Research, Homepage. URL: https://o2r.info/, zuletzt abgerufen am 20.05.2019.
-* PostgreSQL. URL: https://www.postgresql.org/, zuletzt abgerufen am 20.05.2019.
-* Seite „File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 18. Mai 2019, 22:40 UTC. URL: https://de.wikipedia.org/w/index.php?title=File_Transfer_Protocol&oldid=188716771, zuletzt abgerufen am 20.05.2019.
-Seite „Lightweight Directory Access Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 06:53 UTC. URL: https://de.wikipedia.org/w/index.php?title=Lightweight_Directory_Access_Protocol&oldid=188315409, zuletzt abgerufen am 20.05.2019. 
-* Seite „Master-Slave-Betrieb“. In: ITWissen.info. URL: https://www.itwissen.info/Master-Slave-Betrieb-master-slave-operation.html, zuletzt abgerufen am 20.05.2019.
-* Seite „Parser“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 13. Juni 2018, 17:09 UTC. URL: https://de.wikipedia.org/w/index.php?title=Parser&oldid=178286070, zuletzt abgerufen am 20.05.2019.
-* Seite „Primo Central“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 8. Mai 2019, 04:48 UTC. URL: https://de.wikipedia.org/w/index.php?title=Primo_Central&oldid=188346136, zuletzt abgerufen am 20.05.2019.
-* Seite „.QPF Dateierweiterung". In: ReviverSoft. URL: https://www.reviversoft.com/de/file-extensions/qpf, zuletzt abgerufen am 20.05.2019.
-* Seite „Rsync“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Januar 2019, 13:50 UTC. URL: https://de.wikipedia.org/w/index.php?title=Rsync&oldid=184489056, zuletzt abgerufen am 20.05.2019.
-* Seite „sciebo.RDS“. In: forschungsdaten.info. URL: https://www.forschungsdaten.info/praxis-kompakt/fdm-in-den-bundeslaendern/nordrhein-westfalen/projekte/sciebords/, zuletzt abgerufen am 20.05.2019.
-* Seite „SSH keys“. In: archlinux. URL: https://wiki.archlinux.org/index.php/SSH_keys, zuletzt abgerufen am 20.05.2019.
-* Seite „SSH File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 11. Mai 2019, 13:51 UTC. URL: https://de.wikipedia.org/w/index.php?title=SSH_File_Transfer_Protocol&oldid=188459540, zuletzt abgerufen am 20.05.2019.
-* Seite „Submission Information Package (SIP)“. In: CLOCKSS Archive. URL: https://documents.clockss.org/index.php?title=Definition_of_SIP#OAIS_Submission_Information_Package_.28SIP.29, zuletzt abgerufen am 20.05.2019.
-* Seite „Tagged Image File Format“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 14. Mai 2019, 08:41 UTC. URL: https://de.wikipedia.org/w/index.php?title=Tagged_Image_File_Format&oldid=188558470, zuletzt abgerufen am 20.05.2019.
-* Seite „Uniform Resource Name“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 22:21 UTC. URL: https://de.wikipedia.org/w/index.php?title=Uniform_Resource_Name&oldid=188341453, zuletzt abgerufen am 20.05.2019.
-* Seite „ZIP-Dateiformat“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 25. März 2019, 21:07 UTC. URL: https://de.wikipedia.org/w/index.php?title=ZIP-Dateiformat&oldid=186925117, zuletzt abgerufen am 20.05.2019.
-* semantics, Homepage. URL: https://www.semantics.de/, zuletzt abgerufen am 20.05.2019.
-* semantics, Visual Library. URL: https://www.semantics.de/visual_library/, zuletzt abgerufen am 20.05.2019.
-* ULB Münster, Digitale Sammlungen. URL: https://sammlungen.ulb.uni-muenster.de/, zuletzt abgerufen am 20.05.2019.
-* ULB Münster, Elektronischer Semesterapparat (ESA). URL: https://www.ulb.uni-muenster.de/service/esa/dozenten-info.html, zuletzt abgerufen am 20.05.2019.
-* ULB Münster, Online-Katalog. URL: https://katalogix.uni-muenster.de/Katalog/start.do, zuletzt abgerufen am 20.05.2019.
-* ULB Münster, Westfalica. URL: https://www.ulb.uni-muenster.de/sammlungen/westfalica/, zuletzt abgerufen am 20.05.2019.
-* ULB Münster, Historische Drucke. URL: https://www.ulb.uni-muenster.de/sammlungen/historisch/index.html, zuletzt abgerufen am 20.5.2019.
-* ULB Münster, Nachlässe. URL: https://www.ulb.uni-muenster.de/sammlungen/nachlaesse/index.html, zuletzt abgerufen am 20.05.2019.
-* Walter Nagel, Homepage. URL: http://www.walternagel.de/, zuletzt abgerufen am 20.05.2019.
-* Walter Nagel, Elektronischer Semesterapparat (ESA). URL: http://www.walternagel.de/elektronischer-semesterapparat, zuletzt abgerufen am 20.05.2019.
-* Walter Nagel, Multidotscan. URL: http://www.walternagel.de/multidotscan, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Linked Open Data University of Münster (LODUM), Homepage. URL: https://www.uni-muenster.de/LODUM/, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Linked Open Data University of Münster (LODUM), ULB Data. URL: https://www.uni-muenster.de/LODUM/data/ulb/, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Projekt Open Reproducible Research (O2R). URL: https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Servicepunkt Forschungsdatenmanagement. URL: https://www.uni-muenster.de/Forschungsdaten/angebote/ansprechpartner/, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Servicepunkt Forschungsdatenmanagement, Lebenszyklus. URL: https://www.uni-muenster.de/Forschungsdaten/information/lebenszyklus/, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Learnweb. URL: https://www.uni-muenster.de/LearnWeb/learnweb2/, zuletzt abgerufen am 20.05.2019.
-* WWU Münster, Zentrum für Informationsverarbeitung (ZIV). URL: https://www.uni-muenster.de/ZIV/, zuletzt abgerufen am 20.05.2019.
-* zeit.punktNRW, Homepage. URL: https://zeitpunkt.nrw/, zuletzt abgerufen am 20.05.2019.
-* Zeutschel, Homepage. URL: https://www.zeutschel.de/de/, zuletzt abgerufen am 20.05.2019.
+* Acmisgroup. URL: http://www.acmisgroup.com/en (zuletzt abgerufen am 20.05.2019).
+* Acmisgroup, Mekel Quantum Process Software. URL: http://www.acmisgroup.com/en/scanners/detail/mekel-quantum-process-software (zuletzt abgerufen am 20.05.2019).
+* Creative Commons. URL: https://creativecommons.org/ (zuletzt abgerufen am 20.05.2019).
+* Digitales Archiv NRW (DA NRW): URL: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).
+* Deutsche Digitale Bibliothek (DDB). URL: https://www.deutsche-digitale-bibliothek.de/ (zuletzt abgerufen am 20.05.2019).
+* Deutsche Forschungsgemeinschaft (DFG), Fachinformationsdienste für die Wissenschaft. URL: https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html (zuletzt abgerufen am 20.05.2019).
+* Deutsche Nationalbibliothek (DNB), OAI-Schnittstelle. URL: https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html (zuletzt abgerufen am 20.05.2019).
+* Europeana. URL: https://www.europeana.eu/portal/de (zuletzt abgerufen am 20.05.2019).
+* FID Benelux Low Countries Studies, Rechercheportal. URL:https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).  
+* FileZilla. URL: https://filezilla-project.org/ (zuletzt abgerufen am 20.05.2019).
+* Open Archives Initiative. URL: http://www.openarchives.org/ (zuletzt abgerufen am 20.05.2019).
+* Opening Reproducible Research. URL: https://o2r.info/ (zuletzt abgerufen am 20.05.2019).
+* PostgreSQL. URL: https://www.postgresql.org/ (zuletzt abgerufen am 20.05.2019).
+* Seite „File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 18. Mai 2019, 22:40 UTC. URL: https://de.wikipedia.org/w/index.php?title=File_Transfer_Protocol&oldid=188716771 (zuletzt abgerufen am 20.05.2019).
+Seite „Lightweight Directory Access Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 06:53 UTC. URL: https://de.wikipedia.org/w/index.php?title=Lightweight_Directory_Access_Protocol&oldid=188315409 (zuletzt abgerufen am 20.05.2019). 
+* Seite „Master-Slave-Betrieb“. In: ITWissen.info. URL: https://www.itwissen.info/Master-Slave-Betrieb-master-slave-operation.html (zuletzt abgerufen am 20.05.2019).
+* Seite „Parser“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 13. Juni 2018, 17:09 UTC. URL: https://de.wikipedia.org/w/index.php?title=Parser&oldid=178286070 (zuletzt abgerufen am 20.05.2019).
+* Seite „Primo Central“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 8. Mai 2019, 04:48 UTC. URL: https://de.wikipedia.org/w/index.php?title=Primo_Central&oldid=188346136 (zuletzt abgerufen am 20.05.2019).
+* Seite „.QPF Dateierweiterung". In: ReviverSoft. URL: https://www.reviversoft.com/de/file-extensions/qpf (zuletzt abgerufen am 20.05.2019).
+* Seite „Rsync“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Januar 2019, 13:50 UTC. URL: https://de.wikipedia.org/w/index.php?title=Rsync&oldid=184489056 (zuletzt abgerufen am 20.05.2019).
+* Seite „sciebo.RDS“. In: forschungsdaten.info. URL: https://www.forschungsdaten.info/praxis-kompakt/fdm-in-den-bundeslaendern/nordrhein-westfalen/projekte/sciebords/ (zuletzt abgerufen am 20.05.2019).
+* Seite „SSH keys“. In: archlinux. URL: https://wiki.archlinux.org/index.php/SSH_keys (zuletzt abgerufen am 20.05.2019).
+* Seite „SSH File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 11. Mai 2019, 13:51 UTC. URL: https://de.wikipedia.org/w/index.php?title=SSH_File_Transfer_Protocol&oldid=188459540 (zuletzt abgerufen am 20.05.2019).
+* Seite „Submission Information Package (SIP)“. In: CLOCKSS Archive. URL: https://documents.clockss.org/index.php?title=Definition_of_SIP#OAIS_Submission_Information_Package_.28SIP.29 (zuletzt abgerufen am 20.05.2019).
+* Seite „Tagged Image File Format“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 14. Mai 2019, 08:41 UTC. URL: https://de.wikipedia.org/w/index.php?title=Tagged_Image_File_Format&oldid=188558470 (zuletzt abgerufen am 20.05.2019).
+* Seite „Uniform Resource Name“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 22:21 UTC. URL: https://de.wikipedia.org/w/index.php?title=Uniform_Resource_Name&oldid=188341453 (zuletzt abgerufen am 20.05.2019).
+* Seite „ZIP-Dateiformat“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 25. März 2019, 21:07 UTC. URL: https://de.wikipedia.org/w/index.php?title=ZIP-Dateiformat&oldid=186925117 (zuletzt abgerufen am 20.05.2019).
+* semantics. URL: https://www.semantics.de/ (zuletzt abgerufen am 20.05.2019).
+* semantics, Visual Library. URL: https://www.semantics.de/visual_library/ (zuletzt abgerufen am 20.05.2019).
+* ULB Münster, Digitale Sammlungen. URL: https://sammlungen.ulb.uni-muenster.de/ (zuletzt abgerufen am 20.05.2019).
+* ULB Münster, Elektronischer Semesterapparat (ESA). URL: https://www.ulb.uni-muenster.de/service/esa/dozenten-info.html (zuletzt abgerufen am 20.05.2019).
+* ULB Münster, Online-Katalog. URL: https://katalogix.uni-muenster.de/Katalog/start.do (zuletzt abgerufen am 20.05.2019).
+* ULB Münster, Westfalica. URL: https://www.ulb.uni-muenster.de/sammlungen/westfalica/ (zuletzt abgerufen am 20.05.2019).
+* ULB Münster, Historische Drucke. URL: https://www.ulb.uni-muenster.de/sammlungen/historisch/index.html (zuletzt abgerufen am 20.5.2019).
+* ULB Münster, Nachlässe. URL: https://www.ulb.uni-muenster.de/sammlungen/nachlaesse/index.html (zuletzt abgerufen am 20.05.2019).
+* Walter Nagel. URL: http://www.walternagel.de/ (zuletzt abgerufen am 20.05.2019).
+* Walter Nagel, Elektronischer Semesterapparat (ESA). URL: http://www.walternagel.de/elektronischer-semesterapparat (zuletzt abgerufen am 20.05.2019).
+* Walter Nagel, Multidotscan. URL: http://www.walternagel.de/multidotscan (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Linked Open Data University of Münster (LODUM). URL: https://www.uni-muenster.de/LODUM/ (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Linked Open Data University of Münster (LODUM), ULB Data. URL: https://www.uni-muenster.de/LODUM/data/ulb/ (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Projekt Open Reproducible Research (O2R). URL: https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Servicepunkt Forschungsdatenmanagement. URL: https://www.uni-muenster.de/Forschungsdaten/angebote/ansprechpartner/ (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Servicepunkt Forschungsdatenmanagement, Lebenszyklus. URL: https://www.uni-muenster.de/Forschungsdaten/information/lebenszyklus/ (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Learnweb. URL: https://www.uni-muenster.de/LearnWeb/learnweb2/ (zuletzt abgerufen am 20.05.2019).
+* WWU Münster, Zentrum für Informationsverarbeitung (ZIV). URL: https://www.uni-muenster.de/ZIV/ (zuletzt abgerufen am 20.05.2019).
+* zeit.punktNRW. URL: https://zeitpunkt.nrw/ (zuletzt abgerufen am 20.05.2019).
+* Zeutschel. URL: https://www.zeutschel.de/de/ (zuletzt abgerufen am 20.05.2019).
