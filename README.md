@@ -176,7 +176,7 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * zeit.punktNRW. URL: https://zeitpunkt.nrw/ (zuletzt abgerufen am 20.05.2019).
 * Zeutschel. URL: https://www.zeutschel.de/de/ (zuletzt abgerufen am 20.05.2019).
 
-
+<div class="footnotes">
 [1]: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
 
 [2]: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).
