@@ -178,5 +178,7 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 
 <div class="footnotes">
 [1]: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
+ 
 [2]: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).
+
 [3]: https://www.uni-muenster.de/Geoinformatics/research/projects/O2R.html (zuletzt abgerufen am 20.05.2019).
