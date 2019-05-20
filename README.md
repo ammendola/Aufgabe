@@ -182,9 +182,9 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 <li id="fn:1">
 <ol>
 <p>https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).<a href="#fnref:1"
-<li id="fn:2">
-<p>https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).<a href="#fnref:2"
+
 <hr>
-</ol>
-</div>                         
+<ol>
+<li id="fn:2">
+<p>https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).<a href="#fnref:2"                         
                                                                                           
