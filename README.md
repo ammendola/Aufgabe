@@ -135,7 +135,7 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * Deutsche Forschungsgemeinschaft (DFG), Fachinformationsdienste für die Wissenschaft. URL: https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html (zuletzt abgerufen am 20.05.2019).
 * Deutsche Nationalbibliothek (DNB), OAI-Schnittstelle. URL: https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html (zuletzt abgerufen am 20.05.2019).
 * Europeana. URL: https://www.europeana.eu/portal/de (zuletzt abgerufen am 20.05.2019).
-* FID Benelux Low Countries Studies, Profil, URL: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
+* FID Benelux Low Countries Studies, Profil. URL: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
 * FID Benelux Low Countries Studies, Rechercheportal. URL: https://www.fid-benelux.de/literatur-recherche/suche/ (zuletzt abgerufen am 20.05.2019).
 * FileZilla. URL: https://filezilla-project.org/ (zuletzt abgerufen am 20.05.2019).
 * Open Archives Initiative. URL: http://www.openarchives.org/ (zuletzt abgerufen am 20.05.2019).
