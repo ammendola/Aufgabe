@@ -186,5 +186,6 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 <hr>
 <ol>
 <li id="fn:2">
+<ol>
 <p>https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).<a href="#fnref:2"                         
                                                                                           
