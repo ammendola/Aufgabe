@@ -116,10 +116,26 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 
 ## Quellen
 
-1. Gespräche mit zwei IT- und Datenexperten der ULB Münster (Dez. Digitale Dienste)
+1. Persönliche Gespräche mit zwei IT- und Datenexperten der ULB Münster (Dez. Digitale Dienste)
 
 2. Webquellen:
 
-* ULB-Online-Katalog (https://katalogix.uni-muenster.de/Katalog/start.do), zuletzt abgerufen am 20.05.2019.
-* 
-
+* Creative Commons, Homepage. URL: https://creativecommons.org/, zuletzt abgerufen am 20.05.2019.
+* semantics, Homepage. URL: https://www.semantics.de/, zuletzt abgerufen am 20.05.2019.
+* semantics, Visual Library. URL: https://www.semantics.de/visual_library/, zuletzt abgerufen am 20.05.2019.
+* ULB Münster, Digitale Sammlungen. URL: https://sammlungen.ulb.uni-muenster.de/, zuletzt abgerufen am 20.05.2019.
+* ULB Münster, Elektronischer Semesterapparat. URL: https://www.ulb.uni-muenster.de/service/esa/dozenten-info.html, zuletzt abgerufen am 20.05.2019.
+* ULB Münster, Online-Katalog. URL: https://katalogix.uni-muenster.de/Katalog/start.do, zuletzt abgerufen am 20.05.2019.
+* ULB Münster, Westfalica. URL: https://www.ulb.uni-muenster.de/sammlungen/westfalica/, zuletzt abgerufen am 20.05.2019.
+* ULB Münster, Historische Drucke. URL: https://www.ulb.uni-muenster.de/sammlungen/historisch/index.html, zuletzt abgerufen am 20.5.2019.
+* ULB Münster, Nachlässe. URL: https://www.ulb.uni-muenster.de/sammlungen/nachlaesse/index.html, zuletzt abgerufen am 20.05.2019.
+* WWU Münster, Learnweb. URL: https://www.uni-muenster.de/LearnWeb/learnweb2/, zuletzt abgerufen am 20.05.2019.
+* Seite „File Transfer Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 18. Mai 2019, 22:40 UTC. URL: https://de.wikipedia.org/w/index.php?title=File_Transfer_Protocol&oldid=188716771, zuletzt abgerufen am 20.05.2019.
+Seite „Lightweight Directory Access Protocol“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 7. Mai 2019, 06:53 UTC. URL: https://de.wikipedia.org/w/index.php?title=Lightweight_Directory_Access_Protocol&oldid=188315409, zuletzt abgerufen am 20.05.2019. 
+* Seite „Primo Central“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 8. Mai 2019, 04:48 UTC. URL: https://de.wikipedia.org/w/index.php?title=Primo_Central&oldid=188346136, zuletzt abgerufen am 20.05.2019.
+* Walter Nagel, Homepage. URL: http://www.walternagel.de/, zuletzt abgerufen am 20.05.2019.
+* Walter Nagel, Elektronischer Semesterapparat. URL: http://www.walternagel.de/elektronischer-semesterapparat, zuletzt abgerufen am 20.05.2019.
+* Walter Nagel, Multidotscan. URL: http://www.walternagel.de/multidotscan, zuletzt abgerufen am 20.05.2019.
+* Open Archives Initiative. URL: http://www.openarchives.org/, zuletzt abgerufen am 20.05.2019.
+* Seite „Master-Slave-Betrieb“. In: ITWissen.info. URL: https://www.itwissen.info/Master-Slave-Betrieb-master-slave-operation.html, zuletzt abgerufen am 20.05.2019.
+* PostgreSQL. URL: https://www.postgresql.org/, zuletzt abgerufen am 20.05.2019.
