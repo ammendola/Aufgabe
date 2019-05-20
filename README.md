@@ -41,7 +41,7 @@ In Form eines [Servicepunkts Forschungsdaten](https://www.uni-muenster.de/Forsch
 Der Fachinformationsdienst (FID) Benelux ist ein DFG-gefördertes Projekt im Rahmen des Förderprogramms [Fachinformationsdienste für die Wissenschaft](https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/fachinfodienste_wissenschaft/index.html) und ist das Nachfolgeformat der 2015 ausgelaufenen Sondersammelgebiete (SSG), hier des SSG Niederländischer Kulturkreis.
 
 Damit der FID seinem [Selbstverständnis](https://www.fid-benelux.de/der-fid/ueber-uns/#profil) als
->zentrale Anlaufstelle für forschungsrelevante Literatur und Informationen über die Kultur und Gesellschaft der Beneluxländer sowie für forschungsunterstützende Services<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>
+>zentrale Anlaufstelle für forschungsrelevante Literatur und Informationen über die Kultur und Gesellschaft der Beneluxländer sowie für forschungsunterstützende Services[^1]
 
 gerecht werden kann, gibt es neben zahlreichen Services in der ULB das [Rechercheportal FID Benelux](https://www.fid-benelux.de/literatur-recherche/suche/) als zentrale Suchmaschine für forschungsrelevante Literatur über die Kultur und Gesellschaft der Beneluxländer. Um diese spezielle Literatur in einem eigenen Portal suchbar machen zu können, werden Benelux-relevante Titel von einschlägigen liefernden Bibliotheken entweder über MARC21XML-Exporte über einen FTP-Server in die zentrale Datenbank der ULB importiert, um von dort aus in den Online-Katalog und in das Discovery-System zu gelangen. Ein anderer Weg, um an relevante Literatur für das Rechercheportal zu gelangen, ist das Harvesten (Einsammeln) relevanter Literatur über offene [OAI-Schnittstellen](http://www.openarchives.org/), die den offenen Austausch von Metadaten zum Ziel haben. Hierfür kommen zumeist sog. „OAI-Harvester“ zum Einsatz, wie etwa auch in der [Deutschen Nationalbibliothek (DNB)](https://www.dnb.de/DE/Service/DigitaleDienste/OAI/oai_node.html). Um die eingesammelten Metadaten nun mit dem genannten FTP-Server und der zentralen Datenbank der ULB zu synchronisieren und semantisch verstehbar zu machen, werden spezielle Computerprogramm namens [Parser](https://de.wikipedia.org/wiki/Parser) eingesetzt. 
 
@@ -52,7 +52,7 @@ gerecht werden kann, gibt es neben zahlreichen Services in der ULB das [Recherch
 ### 3. Digitales Archiv NRW (DA NRW)
 
 Das Landesprojekt Digitales Archiv NRW hat sich auf ihrer [Webseite](https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/) Folgendes auf ihre Fahnen geschrieben:
-> Das DA NRW ist ein informationstechnisches Angebot für alle Einrichtungen, die ihr elektronisches Kulturgut nach dem Archivgesetz und Pflichtexemplargesetz sicher und auf Dauer speichern müssen. Zur Nutzung von Synergieeffekten wird die Dienstleistung in einem Verbund verschiedener Dienstleister des Landes und der Kommunen bereitgestellt.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup.</p>
+> Das DA NRW ist ein informationstechnisches Angebot für alle Einrichtungen, die ihr elektronisches Kulturgut nach dem Archivgesetz und Pflichtexemplargesetz sicher und auf Dauer speichern müssen. Zur Nutzung von Synergieeffekten wird die Dienstleistung in einem Verbund verschiedener Dienstleister des Landes und der Kommunen bereitgestellt.[^2]
 
 Zudem sollen die Daten nicht nur langzeitarchiviert bzw. -gespeichert werden, sondern auch für die Zulieferung in weitere Portal dienen ([DDB](https://www.deutsche-digitale-bibliothek.de/), [Europeana](https://www.europeana.eu/portal/de)). Als Testpartner der ersten Stunde hat die ULB Münster bereits Erfahrungen mit dem Workflow gesammelt, wie und auf welchen Wegen die Daten ins DA NRW migriert werden können.
 
@@ -177,10 +177,7 @@ Der drittletzte Schritt des beschriebenen Datenfluss-Workflows bietet aus Sicht 
 * Zeutschel. URL: https://www.zeutschel.de/de/ (zuletzt abgerufen am 20.05.2019).
 
 <div class="footnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).<a href="#fnref:1"
-<li id="fn:2">
-<p>https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).<a href="#fnref:2"                                                                                             
+[^1]: https://www.fid-benelux.de/der-fid/ueber-uns/#profil (zuletzt abgerufen am 20.05.2019).
+
+[^2]: https://www.danrw.de/ueber-das-da-nrw/die-nrw-loesung/ (zuletzt abgerufen am 20.05.2019).                                                                                             
                                                                                           
